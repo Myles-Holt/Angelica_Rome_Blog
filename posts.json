@@ -1,12 +1,11 @@
 [
 	{
 		"id": 1,
-		"title": "",
-		"date": "",
-		"content": "",
+		"title": "Arriving in Rome",
+		"date": "January 15, 2026",
+		"content": "On January 15th I set off on my first international journey. I chose not to partake in the group flight as I was flying out of Boston. I had a layover in Germany, so I went through customs there. Once I was past customs, I found my gate and then explored the airport until it was time to board. I did my best to catch some sleep on the plane, knowing I'd have a full day as soon as I landed. Upon landing in Italy, I collected my bags and communicated with Borromini Institute (the school running the Rome study-abroad program) to meet with the driver to bring me to the apartment in Trastevere I'd be staying in for the duration of the program. Upon arrival to the apartment, I felt the nerves and excitement setting in. Unfortunately, I didn't realize until I arrived that the phone plan I had set up in the States, which was supposed to work in Italy did in fact not work in Italy. I met up with the landlord, who showed me how to work the elevator (quite different than the elevators I was used to) and gave me my key as well as the wifi code (Thank God!!). I settled into the apartment and contacted my professor to let her know I arrived safely. She advised me that her and the rest of the students were at the Borromini Institute and asked if I'd like for her to meet me to walk over. So, data-free phone loaded with directions, I set off on a fifty-minute walk, on my own, in a foreign country to find the school.\nLuckily, right outside the apartment, I ran into a couple of girls who were clearly studying abroad as well. Since we were walking in the same direction, I walked with them until we had to part ways. Shortly after which, I ran into my professor and together we made the rest of the journey to the school. Completely overwhelmed by the many sights, sounds, and smells, I was in awe of my surroundings.\nFinally, I was in the country of my heritage, the country I had dreamed of visiting ever since I was a child and my mother told me stories of her young childhood in the very city I now stood.",
 		"cardImage": "",
         "modalImage": "",
-		"tags": [],
 		"published": true
 	},
 	{
@@ -16,7 +15,6 @@
 		"content": "",
 		"cardImage": "",
         "modalImage": "",
-		"tags": [],
 		"published": true
 	},
 	{
@@ -26,7 +24,6 @@
 		"content": "",
 		"cardImage": "",
         "modalImage": "",
-		"tags": [],
 		"published": true
 	},
 	{
@@ -36,7 +33,6 @@
 		"content": "",
 		"cardImage": "",
         "modalImage": "",
-		"tags": [],
 		"published": true
 	},
 	{
@@ -46,7 +42,6 @@
 		"content": "",
 		"cardImage": "",
         "modalImage": "",
-		"tags": [],
 		"published": true
 	},
 	{
@@ -56,7 +51,6 @@
 		"content": "",
 		"cardImage": "",
         "modalImage": "",
-		"tags": [],
 		"published": true
 	},
 	{
@@ -66,7 +60,6 @@
 		"content": "",
 		"cardImage": "",
         "modalImage": "",
-		"tags": [],
 		"published": true
 	},
 	{
@@ -76,7 +69,6 @@
 		"content": "",
 		"cardImage": "",
         "modalImage": "",
-		"tags": [],
 		"published": true
 	},
 	{
@@ -86,7 +78,6 @@
 		"content": "",
 		"cardImage": "",
         "modalImage": "",
-		"tags": [],
 		"published": true
 	},
 	{
@@ -96,7 +87,6 @@
 		"content": "",
 		"cardImage": "",
         "modalImage": "",
-		"tags": [],
 		"published": true
 	}
 ]
